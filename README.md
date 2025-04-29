@@ -5,6 +5,7 @@ Use html & js to make a playable RPS game with both singleplayer and multipleyer
 -How It's Made
 
 Tech used: HTML, JS 
+
 Starting with singleplayer mode (vs CPU) with local multiplayer to follow
 
 -Optimizations
